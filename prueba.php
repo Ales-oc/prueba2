@@ -1,4 +1,4 @@
 <?php 
 echo 'hola mundo' + '!' 
-document.write("Escrito en PHP")
+document.write("Escrito con PHP")
 ?>
