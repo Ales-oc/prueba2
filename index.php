@@ -1,1 +1,1 @@
-<?php echo="Segundo archivo"?>
+<?php echo="Segundo archivo PHP"?>
